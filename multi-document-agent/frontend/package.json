@@ -10,7 +10,7 @@
   "dependencies": {
     "ai": "^2",
     "llamaindex": "0.0.35",
-    "next": "^13",
+    "next": "^14",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2",
